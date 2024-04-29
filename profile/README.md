@@ -19,7 +19,7 @@ Welcome to Playsphere, a cutting-edge web3 organization that specializes in gami
 
 - 🐦 Twitter: [@PlaysphereHQ](https://twitter.com/PlaysphereHQ)
 - 📧 Email: info@playsphere.club
-- 🌐 Website: [playsphere.io](https://playsphere.club)
+- 🌐 Website: [playsphere.club](https://playsphere.club)
 
 ## 🚀 Join Our Journey
 
