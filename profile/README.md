@@ -10,7 +10,7 @@ We are Building UGC layer for AWs built with MUD, dojo, world engine etc
 
 ## 🤝 Connect with Us
 
-- 🐦 Twitter: [@PlaysphereHQ](https://twitter.com/Playsphereai)
+- 🐦 Twitter: [@PlaysphereAI](https://twitter.com/Playsphereai)
 - 📧 Email: info@playsphere.ai
 - 🌐 Website: [playsphere.club](https://playsphere.ai)
 
